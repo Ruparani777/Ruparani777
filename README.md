@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ruparani777
 - 👀 I’m interested in  Web developement...
 - 🌱 I’m currently learning java script and DSA...
-- C:\Users\gopichand\Downloads\Template Git.jpg
+- 
 
 
 <!---
