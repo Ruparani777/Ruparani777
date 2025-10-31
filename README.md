@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ruparani777
 - 💞 OPEN SOURCE CONTRIBUTOR✨
- 🚀 About Me
+
+   About Me
 
 I am an AI/ML Engineer passionate about building intelligent systems and transforming ideas into reality through the power of machine learning and artificial intelligence.
 
@@ -8,7 +9,7 @@ I am an AI/ML Engineer passionate about building intelligent systems and transfo
 - 💻 Languages & Frameworks:Python, C/C++, scikit-learn, PyTorch, TensorFlow, CycleGAN
 - 🧑‍💻 Special Interests: Generative Adversarial Networks, Natural Language Processing, Advanced Model Architectures
 
-##📚 Author & Creator
+📚 Author & Creator
 
 Beyond coding, I am an avid writer and the author of two books available on Amazon KDP. I love exploring the intersection of technology and creativity, sharing knowledge, and inspiring others through my writing.
 
