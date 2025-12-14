@@ -25,41 +25,11 @@
 
 ## 🌟 About Me
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Ruparani Thupakula"
-        self.fuel = "☕ Coffee"
-        self.role = "AI/ML Engineer"
-        self.expertise = ["GANs", "CycleGAN", "NLP", "Deep Learning"]
-        self.books_published = 2
-        self.platform = "Amazon KDP"
-        
-    def daily_routine(self):
-        while self.coffee.is_hot():
-            self.think_deep()
-            self.train_models()
-            self.write_code()
-            self.write_books()
-            self.push_to_github()
-            
-    def philosophy(self):
-        return "Research-driven mind × Startup-ready hands"
-        
-    def current_mission(self):
-        return """
-        Building intelligent systems with GANs and NLP.
-        Translating complex AI into practical solutions.
-        Sharing knowledge through code and writing.
-        """
-
-ruparani = AIEngineer()
-ruparani.daily_routine()
-```
-
 I'm **Ruparani Thupakula** — building intelligent systems that learn, adapt, and create. My playground includes **generative AI**, **neural networks**, and **NLP**.
 
 Published author on **Amazon KDP** with 2 books. I code machines AND write for humans.
+
+**What drives me:** Research-driven mind × Startup-ready hands. Building intelligent systems with GANs and NLP while translating complex AI into practical solutions.
 
 <br clear="right"/>
 
