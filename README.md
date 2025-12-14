@@ -1,110 +1,126 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ========================================================= -->
 
-<h1 align="center">✨ Ruparani (@Ruparani777) ✨</h1>
-<h3 align="center">AI/ML Engineer · Open Source Contributor · Research × Startup Builder</h3>
+<!-- ☕ COFFEE × CODE × AI — VISUAL PROFILE README              -->
 
-<p align="center">
-Building intelligent systems where <b>research rigor</b> meets <b>startup execution</b>.<br/>
-Exploring Generative AI, NLP, and advanced model architectures.
-</p>
+<!-- ========================================================= -->
 
-<p align="center">
-<a href="https://github.com/Ruparani777"><img src="https://komarev.com/ghpvc/?username=Ruparani777&style=flat-square&color=blue"/></a>
-</p>
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=800&color=CBA6F7&center=true&vCenter=true&width=900&lines=☕+Coffee-fueled+AI+Engineer;🤖+Machine+Learning+%7C+Generative+AI;🔬+Research+Thinking+%C3%97+Startup+Execution;✍️+Author+%7C+Open+Source+Contributor" />
 
-<!-- ===================== ABOUT ===================== -->
+<br/>
 
-## 🧬 About Me
+<img src="https://komarev.com/ghpvc/?username=Ruparani777&label=Profile%20Views&color=9D7CD8&style=flat-square" />
 
-I am an **AI/ML Engineer** passionate about transforming ideas into scalable, intelligent systems. My work focuses on designing robust machine learning pipelines, experimenting with cutting-edge architectures, and contributing to open-source ecosystems that push the boundaries of artificial intelligence.
-
-I thrive at the intersection of **deep research** and **real-world impact**—where theory becomes production.
+</div>
 
 ---
 
-<!-- ===================== SKILLS ===================== -->
+## ☕ About Me — Brewing Intelligence
 
-## 🧠 Core Expertise
+```text
+while (coffee.isHot()) {
+    thinkDeep();
+    trainModels();
+    writeCode();
+    writeWords();
+}
+```
 
-* Machine Learning & Artificial Intelligence
-* Natural Language Processing (NLP)
-* Deep Learning Systems
-* Generative AI & Representation Learning
+I am **Ruparani (@Ruparani777)** — an **AI/ML Engineer** who builds intelligent systems powered by **machine learning, deep learning, and generative AI**. I enjoy working where **research depth**, **engineering discipline**, and **creative curiosity** converge.
 
-## 💻 Languages & Frameworks
+---
 
-* **Languages:** Python · C · C++
-* **Frameworks:** PyTorch · TensorFlow · scikit-learn
-* **Generative Models:** GANs · CycleGAN · Custom Architectures
+## 🧠 Knowledge Stack
 
-## 🔬 Research Interests
+<div align="center">
+
+| Domain           | Focus                               |
+| ---------------- | ----------------------------------- |
+| 🤖 AI / ML       | Predictive & intelligent systems    |
+| 🧬 Deep Learning | Neural architectures & optimization |
+| 🗣 NLP           | Language understanding & generation |
+| 🎨 Generative AI | GANs, CycleGAN, creative models     |
+
+</div>
+
+---
+
+## 💻 Tech I Code With
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-CBA6F7?style=for-the-badge\&logo=python\&logoColor=1e1e2e)
+![C](https://img.shields.io/badge/C-89B4FA?style=for-the-badge\&logo=c\&logoColor=1e1e2e)
+![C++](https://img.shields.io/badge/C++-74C7EC?style=for-the-badge\&logo=cplusplus\&logoColor=1e1e2e)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-F38BA8?style=for-the-badge\&logo=pytorch\&logoColor=1e1e2e)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FAB387?style=for-the-badge\&logo=tensorflow\&logoColor=1e1e2e)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-A6E3A1?style=for-the-badge\&logo=scikitlearn\&logoColor=1e1e2e)
+
+</div>
+
+---
+
+## 🔬 Research & Curiosity
 
 * Generative Adversarial Networks (GANs)
+* CycleGAN & representation learning
 * Language-centric AI systems
-* Advanced & experimental neural architectures
-* Model optimization and scalability
+* Advanced and experimental architectures
+* Model efficiency and scalability
 
 ---
 
-<!-- ===================== AUTHOR ===================== -->
+## 📚 Author Mode — Words Matter
 
-## 📚 Author & Knowledge Creator
+I am the author of **two books published on Amazon KDP**. Writing helps me translate complex systems into meaningful stories and clear understanding.
 
-Beyond engineering, I am a creator and storyteller. I am the author of **two books published on Amazon KDP**, where I explore ideas that bridge **technology, creativity, and human thought**.
-
-I enjoy sharing knowledge, mentoring learners, and translating complex technical concepts into accessible narratives.
+> *Code teaches machines. Writing teaches humans.*
 
 ---
 
-<!-- ===================== CURRENT WORK ===================== -->
+## 🛠️ Currently Brewing
 
-## 🛠️ What I’m Building
-
-* Innovative AI/ML solutions using modern architectures
-* Research-driven Generative AI and NLP systems
-* Open-source tools and experimental projects
-* Continuous learning through papers, prototypes, and collaboration
+* ☕ Generative AI & NLP experiments
+* 🧪 Research-driven ML prototypes
+* 🧩 Open-source contributions
+* 📖 Continuous learning through papers and practice
 
 ---
 
-<!-- ===================== CREATIVE ===================== -->
+## 📊 Coffee-Powered Metrics
 
-## ✍️ Creative Space
+<div align="center">
 
-Writing is my constant companion—whether structuring elegant code or crafting expressive prose. Creativity is the foundation of everything I build.
+<img src="https://github-readme-stats.vercel.app/api?username=Ruparani777&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruparani777&layout=compact&theme=catppuccin_mocha&hide_border=true" height="170" />
 
----
-
-<!-- ===================== STATS ===================== -->
-
-## 📊 Research × Startup Metrics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ruparani777&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruparani777&layout=compact&theme=catppuccin_mocha&hide_border=true" height="165" />
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=Ruparani777&theme=catppuccin-mocha&hide_border=true" />
-</p>
+
+</div>
 
 ---
 
-<!-- ===================== CTA ===================== -->
+## 🤝 Let’s Build Over Coffee
 
-## 🤝 Let’s Collaborate
-
-I am open to:
+I’m always interested in:
 
 * Research collaborations
-* Open-source contributions
 * Generative AI & NLP projects
-* Deep-tech startup initiatives
+* Open-source innovation
+* Deep-tech & startup ideas
 
-<p align="center"><b>Research-driven thinking. Startup-ready execution.</b><br/>Let’s build what’s next.</p>
+<div align="center">
 
-<!-- ===================== FOOTER ===================== -->
+☕ **Research-driven mind. Startup-ready hands.** ☕
 
-<p align="center">✨ This profile README is a living document—always evolving, just like my work. ✨</p>
+</div>
+
+---
+
+<div align="center">
+
+✨ *This README is handcrafted with coffee, curiosity, and code.* ✨
+
+</div>
