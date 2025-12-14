@@ -1,38 +1,63 @@
-- 👋 Hi, I’m @Ruparani777
-- 💞 OPEN SOURCE CONTRIBUTOR✨
 
+# 👋 Hi, I’m Ruparani (@Ruparani777)
 
+💞 **Open Source Contributor | AI/ML Engineer | Creative Technologist**
 
-I am an AI/ML Engineer passionate about building intelligent systems and transforming ideas into reality through the power of machine learning and artificial intelligence.
+I build intelligent systems where data meets imagination. As an AI/ML Engineer, I transform abstract ideas into scalable, real‑world solutions using machine learning, deep learning, and generative intelligence. My work blends rigorous engineering with curiosity‑driven experimentation.
 
-- 🧠 Expertise:Machine Learning, AI, NLP, Deep Learning, Generative AI
-- 💻 Languages & Frameworks:Python, C/C++, scikit-learn, PyTorch, TensorFlow, CycleGAN
-- 🧑‍💻 Special Interests: Generative Adversarial Networks, Natural Language Processing, Advanced Model Architectures
+---
 
-📚 Author & Creator
+## 🧠 Core Expertise
 
-Beyond coding, I am an avid writer and the author of two books available on Amazon KDP. I love exploring the intersection of technology and creativity, sharing knowledge, and inspiring others through my writing.
+* Machine Learning & Artificial Intelligence
+* Natural Language Processing (NLP)
+* Deep Learning Architectures
+* Generative AI Systems
 
- 🛠️ What I’m Working On
+## 💻 Languages & Frameworks
 
-- Developing innovative AI/ML solutions using the latest frameworks and architectures
-- Exploring the frontiers of Generative AI and NLP
-- Constantly learning and contributing to open source
+* **Languages:** Python, C, C++
+* **Frameworks & Libraries:** scikit‑learn, PyTorch, TensorFlow
+* **Generative Models:** CycleGAN, GAN‑based architectures
 
-✍️ Hobbies & Fun
-Writing is my passion—I channel my creativity both in code and words!
+## 🔬 Areas of Deep Interest
 
+* Generative Adversarial Networks (GANs)
+* Language‑centric AI and NLP pipelines
+* Advanced and experimental model architectures
+* Research‑oriented problem solving
 
-![Ruparani777's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruparani777&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruparani777&layout=compact&theme=radical)
--->
+---
 
-<!--
-**Let’s connect and create something amazing together!**
--->
+## 📚 Author & Creator
 
+Beyond code, I am a storyteller. I am the author of **two books published on Amazon KDP**, where I explore ideas that sit at the intersection of technology, creativity, and human thought. I enjoy sharing knowledge, inspiring learners, and turning complex concepts into meaningful narratives.
 
-<!---
-Ruparani777/Ruparani777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🛠️ What I’m Currently Working On
+
+* Designing and deploying innovative AI/ML solutions using modern frameworks
+* Exploring cutting‑edge Generative AI and NLP techniques
+* Actively contributing to open‑source communities
+* Continuous learning through research, experimentation, and collaboration
+
+---
+
+## ✍️ Hobbies & Creative Space
+
+Writing is my constant—whether it’s shaping elegant code or crafting expressive prose. Creativity fuels everything I build.
+
+---
+
+## 📊 GitHub at a Glance — Research × Startup Aesthetic
+
+![Ruparani777's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruparani777\&show_icons=true\&theme=catppuccin_mocha\&hide_border=true\&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruparani777\&layout=compact\&theme=catppuccin_mocha\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ruparani777\&theme=catppuccin-mocha\&hide_border=true)
+
+---
+
+**Research‑driven engineering. Startup‑ready execution. Let’s build what’s next.**
