@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ruparani777
 - 💞 OPEN SOURCE CONTRIBUTOR✨
 
-   About Me
+
 
 I am an AI/ML Engineer passionate about building intelligent systems and transforming ideas into reality through the power of machine learning and artificial intelligence.
 
@@ -22,10 +22,7 @@ Beyond coding, I am an avid writer and the author of two books available on Amaz
 ✍️ Hobbies & Fun
 Writing is my passion—I channel my creativity both in code and words!
 
----
 
-<!-- GitHub Stats & Badges (optional, uncomment if you like) -->
-<!--
 ![Ruparani777's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruparani777&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruparani777&layout=compact&theme=radical)
 -->
