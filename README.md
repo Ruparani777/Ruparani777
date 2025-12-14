@@ -1,116 +1,85 @@
-<!-- ========================================================= -->
-<!-- ☕ MINIMAL × FOCUSED × ELEGANT                            -->
-<!-- ========================================================= -->
+<div align="center">
+
+# 🌸 Ruparani
+
+### AI Engineer • Author • Researcher
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Building+intelligent+systems;Training+neural+networks;Writing+code+%26+books;Exploring+generative+AI" alt="Typing SVG" />
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ruparani777&color=ff69b4&style=for-the-badge)
+
+</div>
+
+## 💫 About
+
+Hey! I'm **Ruparani** — an AI/ML engineer who loves building things that learn. 
+
+I work with **machine learning**, **deep learning**, and **generative AI** to create systems that solve real problems. I've also written **two books** because explaining complex ideas in simple words is just as important as writing good code.
+
+**What I'm into:**
+- 🧠 GANs and CycleGAN
+- 💬 NLP and language models  
+- 🎨 Generative AI experiments
+- 📚 Research papers and implementation
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+`Python` `C` `C++`
+
+**ML/AI**  
+`PyTorch` `TensorFlow` `scikit-learn` `Keras`
+
+**Tools**  
+`Jupyter` `NumPy` `Pandas` `Git`
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-```ascii
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║     ██████╗ ██╗   ██╗██████╗  █████╗ ██████╗  █████╗    ║
-║     ██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗   ║
-║     ██████╔╝██║   ██║██████╔╝███████║██████╔╝███████║   ║
-║     ██╔══██╗██║   ██║██╔═══╝ ██╔══██║██╔══██╗██╔══██║   ║
-║     ██║  ██║╚██████╔╝██║     ██║  ██║██║  ██║██║  ██║   ║
-║     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ║
-║                                                           ║
-║              AI Engineer × Author × Researcher            ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ruparani777&show_icons=true&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruparani777&theme=radical&hide_border=true" />
 
-![](https://komarev.com/ghpvc/?username=Ruparani777&color=blueviolet&style=flat)
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruparani777&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
 ---
 
-### $ whoami
+## 🌱 Currently
 
-```
-ruparani@github:~$ cat about.txt
-```
-
-AI/ML Engineer building intelligent systems.  
-Two books published. Research-minded. Coffee-dependent.
-
-**Focus:** GANs • NLP • Deep Learning • CycleGAN
-
----
-
-### $ ls -la skills/
-
-```
-drwxr-xr-x  languages/
-├── python
-├── c
-└── c++
-
-drwxr-xr-x  frameworks/
-├── pytorch
-├── tensorflow
-└── scikit-learn
-
-drwxr-xr-x  research/
-├── generative_ai
-├── neural_architectures
-└── model_optimization
+```python
+current_focus = {
+    "learning": ["Advanced GANs", "Transformer architectures"],
+    "building": ["Research prototypes", "Open source tools"],
+    "writing": ["Technical blogs", "Next book"],
+    "exploring": ["Model optimization", "Creative AI"]
+}
 ```
 
 ---
 
-### $ cat current_work.log
+## 📬 Let's Connect
 
-```log
-[2024-12-14] Experimenting with generative models
-[2024-12-14] Building research prototypes
-[2024-12-14] Contributing to open source
-[2024-12-14] Reading papers, writing code
-```
+I'm always open to interesting conversations about AI, research collaborations, or startup ideas.
 
----
-
-### $ git stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Ruparani777&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=bb9af7&icon_color=bb9af7&text_color=c0caf5)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ruparani777&theme=dark&hide_border=true&background=0d1117&ring=bb9af7&fire=bb9af7&currStreakLabel=bb9af7)
-
-</div>
-
----
-
-### $ echo $INTERESTS
-
-```
-> Research collaborations
-> Generative AI projects
-> Open source innovation
-> Deep tech ideas
-```
-
----
-
-### $ contact --list
-
-```bash
-linkedin: [your-profile]
-email: [your-email]
-twitter: [your-handle]
-```
+**Reach out:**  
+📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  "Research-driven mind. Startup-ready hands."           │
-│                                                         │
-│  Made with ☕ and focus                                 │
-└─────────────────────────────────────────────────────────┘
-```
+*"Code teaches machines. Writing teaches humans."*
+
+⭐️ From [Ruparani777](https://github.com/Ruparani777)
 
 </div>
