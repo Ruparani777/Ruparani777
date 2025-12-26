@@ -15,10 +15,10 @@
 <!-- Profile Views & Social Badges -->
 <img src="https://komarev.com/ghpvc/?username=Ruparani777&label=Cosmic%20Visitors&color=FF69B4&style=for-the-badge" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thupakularuparani/)
 [![Amazon](https://img.shields.io/badge/Amazon-Author-FFB6C1?style=for-the-badge&logo=amazon&logoColor=white)](https://amazon.com/author/ruparani)
-[![Email](https://img.shields.io/badge/Email-Reach%20Me-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-FF1493?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Me-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thupakularuparani17@gmail.com)
+[![contact](https://img.shields.io/badge/contact-Explore-FF1493?style=for-the-badge&logo=google-chrome&logoColor=white)](9390598723)
 
 </div>
 
@@ -484,10 +484,9 @@ graph LR
 
 ### 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-FF6B9D?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Direct_Line-FFB6C1?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Daily_Thoughts-FFC0CB?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_More-FF1493?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-FF6B9D?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thupakularuparani/)
+[![Email](https://img.shields.io/badge/Email-Direct_Line-FFB6C1?style=for-the-badge&logo=gmail)](mailto:thupakularuparani17@gmail.com)
+
 
 <br/>
 
@@ -511,24 +510,6 @@ If my work resonates with you, consider supporting through:
 </div>
 
 ---
-
-## 🏆 Recognition & Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ruparani777&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=FF6B9D&icon_color=FFB6C1&text_color=FFC0CB)
-
-</div>
-
----
-
-## 📈 Contribution Journey
-
-<div align="center">
-
-![Snake animation](https://github.com/Ruparani777/Ruparani777/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
@@ -572,7 +553,7 @@ If my work resonates with you, consider supporting through:
 
 <br/>
 
-**Last Updated:** December 2024 | **Built with** 💖 **and** ☕ **by a dreamer who codes**
+**Last Updated:** December 2025 | **Built with** 💖 **and** ☕ **by a dreamer who codes**
 
 <br/>
 
