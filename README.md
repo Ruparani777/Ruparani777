@@ -44,7 +44,7 @@ class RuparaniThupakula:
         self.identity = {
             "role": "AI/ML Engineer 🤖",
             "soul": "Author & Philosopher 📚",
-            "location": "🌏 Chennai, India",
+            "location" : "Pune, India",
             "status": "Forever Learning ♾️"
         }
         
